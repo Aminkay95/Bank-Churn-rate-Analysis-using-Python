@@ -52,7 +52,7 @@ This project aims to analyze customer behavior and identify factors influencing 
 - **Libraries**:
   - `pandas` and `numpy` for data manipulation.
   - `matplotlib` and `seaborn` for data visualization.
-  - `sklearn` for statistical analysis and machine learning techniques.
+  
 
 ---
 
