@@ -64,21 +64,6 @@ This project aims to analyze customer behavior and identify factors influencing 
 
 ---
 
-## How to Use This Project
-
-1. Clone the repository:
-   ```bash
-   git clone [repository_url]
-   cd customer-behavior-analysis
-   ```
-2. Install required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the analysis script to generate visualizations and insights:
-   ```bash
-   python analysis.py
-   ```
 
 ---
 
@@ -90,11 +75,7 @@ This project aims to analyze customer behavior and identify factors influencing 
 
 ---
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
 
 ## Acknowledgments
 
